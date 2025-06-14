@@ -28,9 +28,11 @@ News-App aggregates news articles from trusted sources via OpenAPI, presenting h
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screen1.png" alt="Home Screen" width="250"/>
-  <img src="screenshots/screen2.png" alt="Category Filter" width="250"/>
-  <img src="screenshots/screen3.png" alt="Article Details" width="250"/>
+  <img src="screenshots/home_page.jpg" alt="Home Screen" width="250"/>
+  <img src="screenshots/categories_page.jpg" alt="Category Screen" width="250"/>
+  <img src="screenshots/sources_page.jpg" alt="Sources Screen" width="250"/>
+  <img src="screenshots/detailsScreen_page.jpg" alt="Details Screen" width="250"/>
+  <img src="screenshots/search_bar.jpg" alt="Search bar" width="250"/>
 </p>
 
 ## Getting Started
